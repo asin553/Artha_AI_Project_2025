@@ -4,7 +4,7 @@ A comprehensive data pipeline and AI-powered analytics platform for Airbnb listi
 
 ## 🏗️ Architecture Overview
 
-https://github.com/asin553/ArchDiagramAIProject/blob/main/Project.jpeg?raw=true
+<img width="2516" height="1098" alt="image" src="https://github.com/user-attachments/assets/3388a968-a98b-41a6-aea3-4749c782d66b" />
 
 
 ## 🚀 Quick Start
